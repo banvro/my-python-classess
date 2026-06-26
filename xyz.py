@@ -1,5 +1,3 @@
-kjbakbdsjasdasjbdkasdnas
-
-alsjbdkjasbd
-asdkasjdba
-asdbkas
+git add .
+git commit -m 'comment'
+git push
